@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Javanikk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++, Python and maybe Ruby
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in needle felting, languages (not only programming languages), videogames and art!
+- 🌱 I’m currently learning Python and C++ 
+- 💞️ I’m looking to collaborate on... Nothing yet. I want to learn some more first
+- 📫 How to reach me: You can add me on Discord, I guess! Same name than here
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I share birthday with Elton John
 
