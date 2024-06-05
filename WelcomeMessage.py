@@ -14,7 +14,7 @@ elif idioma==3:
     print("Diese Seite ist für meine öffenlichten Projekte gedacht,\n also werden Sie hier wahrscheinlich ein bisschen von allem sehen, was Sie sich vorstellen können")
 elif idioma==4:
     print("僕のウエブサイトへようこそ！\n")
-    print("このページは私の公開プロジェクトのためのものなので、おそらくここで、4\nあなたが想像できるあらゆるものを少し見ることができるだろう")
+    print("このページは私の公開プロジェクトのためのものなので、おそらくここで、\nあなたが想像できるあらゆるものを少し見ることができるだろう")
 elif idioma==5:
     print("¡Bem-vindo na minha página!\n")
     print("Esta página é para meus projetos públicos, portanto, aqui você provavelmente verá\num pouco de tudo que possa imaginar")
