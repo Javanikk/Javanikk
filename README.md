@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I share birthday with Elton John
 
-- Please run WelcomeMessage.py for a neat surprise
+Please run WelcomeMessage.py for a neat surprise
 
 <!---
 Javanikk/Javanikk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
